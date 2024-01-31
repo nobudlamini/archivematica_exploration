@@ -29,6 +29,21 @@ Vagrant will download our custom box and boot it in VirtualBox. When the files h
 I'm in!
 
 ![image](https://github.com/nobudlamini/archivematica_exploration/assets/150668386/e7cc9788-386d-4bb2-8252-438af8048c11)
+</br>
+</br>
+I can now access this Archivematica instance through the web browser </br>
+http://10.10.10.20/
+</br>
+</br>
+![image](https://github.com/nobudlamini/archivematica_exploration/assets/150668386/42fa9567-a095-4f57-a237-5956430e9fd2)
+</br>
+</br>
+And I can connect to the storage device in the virtual machine
+http://10.10.10.20:8000/
+</br>
+</br>
+![image](https://github.com/nobudlamini/archivematica_exploration/assets/150668386/29669c08-522f-41e2-80ff-7195fe8aa440)
+
 
 
 
