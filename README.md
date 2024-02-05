@@ -1,5 +1,21 @@
-# archivematica_exploration
-Exploration of Archivematica using Virtualisation
+<h1>Exploration of Archivematica using Virtualisation</h1>
+</br></br>
+
+<h2>Description</h2>
+In this exercise, I am exploring the different features and settings of archivematica that I want to familiarise myself with ahead of implementing archivematica on an AWS S3 environment. I will share the plans of how we plan to implement the final solution on S3 at a later point
+</br></br>
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Vagrant</b> 
+- <b>VIrtual Box</b>
+
+<h2>Environments Used </h2>
+
+- <b>Linux</b> 
+
+<h2>Setup walk-through:</h2>
+
 
 (all the detail information and system requirements is provided by Archivematica at</br>
 https://www.archivematica.org/en/docs/archivematica-1.15/getting-started/quick-start/quick-start/#installing-on-vm)</br>
